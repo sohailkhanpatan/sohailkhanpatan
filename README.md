@@ -22,25 +22,16 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>📊 GitHub Statistics
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=sohailkhanpatan&show_icons=true&theme=tokyonight)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=sohailkhanpatan&layout=compact&theme=tokyonight)
-
-🔥 GitHub Streak
-
-"GitHub Streak" (https://streak-stats.demolab.com?user=sohailkhanpatan&theme=tokyonight)
-
-🌐 Connect With Me
-
-- 💻 "GitHub" (https://github.com/sohailkhanpatan)
-- 🌍 "My Portfolio" (https://sohailkhanpatan.vercel.app)
-
----
+📊 GitHub Statistics
 
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-</p><p align="center">
-  <b>Code | Learn | Build | Repeat 🚀</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=sohailkhanpatan&show_icons=true&theme=tokyonight" width="100%" />
+</p>💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailkhanpatan&layout=compact&theme=tokyonight" width="100%" />
+</p>🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sohailkhanpatan&theme=tokyonight" width="100%" />
 </p>
